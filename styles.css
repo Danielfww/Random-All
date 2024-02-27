@@ -1,0 +1,36 @@
+h1 {
+  text-align:center;
+  text-transform:uppercase;
+  text-style:italic;
+  font-weight:100;
+  font-style:bold;
+  font-family: Helvetica;
+  line-height:20px;
+  color:purple;
+  display:inline-block;
+  width:20px;
+  height:20px;
+  padding:30px;
+  padding-left:-30px;
+  margin-left:100px;
+  position: fixed;
+  
+}
+p {
+  color:red;
+  font-size:35px;
+  margin:30px;
+  padding:70px;
+  font-style:italic;
+  font-family:'Times New Roman';
+  text-transform:lowercase;
+  line-height:100px;
+}
+
+* {
+  background-color:#EEF7FC;
+}
+.container {
+  background-color: red;
+  padding: 10px 0;
+}
